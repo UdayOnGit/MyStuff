@@ -18,6 +18,12 @@ namespace HelloGit
             return num1 - num2;
         }
 
+        /// <summary>
+        /// Add comments for Multiply function
+        /// </summary>
+        /// <param name="num1"></param>
+        /// <param name="num2"></param>
+        /// <returns></returns>
         public int Multiply(int num1, int num2)
         {
             return num1 * num2;
